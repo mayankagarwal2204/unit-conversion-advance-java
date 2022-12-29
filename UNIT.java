@@ -62,7 +62,7 @@ public class UNIT {
 					= Double.parseDouble(t1.getText());
 
 				// Converting rupees to dollars
-				double d1 = (d / 65.25);
+				double d1 = (d / 82.84);
 
 				// Getting the string value of the
 				// calculated value
@@ -82,7 +82,7 @@ public class UNIT {
 					= Double.parseDouble(t2.getText());
 
 				// converting Dollars to rupees
-				double d3 = (d2 * 65.25);
+				double d3 = (d2 * 82.84);
 
 				// Getting the string value of the
 				// calculated value
